@@ -1,5 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="userId" value="6ad937f0:1784d297565:-7fc3" />
+    <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="false" />
+    <option name="pristineConfig" value="false" />
+    <option name="accentColor" value="1e90ff" />
+    <option name="selectedTheme" value="GITHUB" />
+    <option name="userId" value="1687351a:176e0000a7a:-8000" />
+    <option name="version" value="5.5.0" />
   </component>
 </application>
